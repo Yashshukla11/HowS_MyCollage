@@ -52,7 +52,7 @@ function Dashboard() {
           description: 'Description for Image 6',
         },
         {
-          owner: 'Yash',
+          owner: 'bhola',
           url: 'https://i.postimg.cc/9XdffPHQ/jss-boys-hostel-noida-noida-hostel-for-students-k5bt8x1l9l.jpg',
           title: 'BH(Boys Hostel)',
           description: 'Description for Image 7',

@@ -12,7 +12,7 @@ function Login() {
         `}
       <div className="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
       <a href="#" className="flex items-center mb-6 text-2xl font-semibold text-gray-900 dark:text-white">
-  <img className="w-25 h-24 mr-0" src="https://i.postimg.cc/y6GtdGYt/lo.png" alt="logo" />
+  <img className="w-10 h-10 mr-2" src="https://i.postimg.cc/Cx30x2Wv/rose.png" alt="logo" />
   HowS My College    
 </a>
 
