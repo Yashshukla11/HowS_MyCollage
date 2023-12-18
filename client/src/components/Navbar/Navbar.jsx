@@ -6,7 +6,7 @@ function NavBar() {
     <nav className="bg-gray-50 dark:bg-gray-900">
       <div className="flex items-center justify-between px-4 py-3 mx-auto max-w-7xl">
         <Link to="/" className="flex items-center text-xl font-semibold text-gray-900 dark:text-white">
-          <img className="w-8 h-8 mr-2" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/logo.svg" alt="logo" />
+          <img className="w-8 h-8 mr-2" src="https://i.postimg.cc/h4Jng8PM/Untitled-design-1-1.png" alt="logo" />
           HowS My College
         </Link>
         <div className="flex items-center justify-center flex-grow">
